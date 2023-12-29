@@ -27,6 +27,7 @@ Prefeitura lança o Busca Saúde - Ferramenta auxilia usuários a localizar equi
 Saúde é coisa séria e não se brinca. Foi pensando nisso que a Prefeitura de São Paulo lançou o Busca Saúde – Sistema de Localização de Estabelecimentos de Saúde da Rede SUS do Município de São Paulo.
 26/03/2015 - Acessível em: https://www.geoambiente.com.br/blog/busca-saude-novidade-com-google-maps-api/
 
+![image](https://github.com/gisa-ceinfo-sms-sp/BuscaSaude/assets/75272641/00595410-5553-47ab-a303-9c7cc794fbd4)
 
 
 
