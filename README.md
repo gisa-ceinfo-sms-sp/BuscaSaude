@@ -19,6 +19,15 @@ texto resumo: https://docs.bvsalud.org/biblioref/sms-sp/year/sms-9583/sms-9583-6
 texto completo: https://docs.bvsalud.org/biblioref/sms-sp/2015/sms-9583/sms-9583-6447.pdf
 
 
+Notícias:
+
+Prefeitura lança o Busca Saúde - Ferramenta auxilia usuários a localizar equipamentos e serviços de saúde por meio de consultas automatizadas via Internet
+18:32 17/03/2015 - Acessível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/noticias/index.php?p=192129
+
+Saúde é coisa séria e não se brinca. Foi pensando nisso que a Prefeitura de São Paulo lançou o Busca Saúde – Sistema de Localização de Estabelecimentos de Saúde da Rede SUS do Município de São Paulo.
+26/03/2015 - Acessível em: https://www.geoambiente.com.br/blog/busca-saude-novidade-com-google-maps-api/
+
+
 
 
 
