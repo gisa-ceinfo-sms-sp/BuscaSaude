@@ -1,4 +1,4 @@
-# BuscaSaude - Sistema de Localização de Estabelecimentos de Saúde da Rede SUS do Município de São Paulo
+# Busca Saúde - Sistema de Localização de Estabelecimentos de Saúde da Rede SUS do Município de São Paulo
 
 Link para acessar o sistema: http://buscasaude.prefeitura.sp.gov.br/
 
