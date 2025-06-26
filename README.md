@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a65a0a9-c33b-42cd-b625-a62c85d1c758)
+![image](https://github.com/user-attachments/assets/49c7c398-038e-4c6d-a8cc-8164769c458f)
 
 
 # Busca Saúde - Sistema de Localização de Estabelecimentos de Saúde da Rede SUS do Município de São Paulo
